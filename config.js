@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MR-NADUWA=TMA1zB6K#OxZNMK7EeNuE6GwEvVhRQnF15uGXds_SHX45qYg6H8Q",
+SESSION_ID: process.env.SESSION_ID || "MR-NADUWA=2FJiTDYL#A8u0Yy-WtMxKCC-GoirRfVT_lxxssmmoR3K5P0alEUQ",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/iclcf6.jpeg",
 ALIVE_MSG: process.env.ALIVE_MSG || "🤖𝗛𝗘𝗬 𝗜 𝗔𝗠 𝗠𝗥.𝗡𝗔𝗗𝗨𝗪𝗔-𝗩1 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 🤖𝙳𝙴𝙿𝙻𝚈 𝙱𝚈 𝙼𝚁.𝙽𝙰𝙳𝚄𝚆𝙰☀",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
